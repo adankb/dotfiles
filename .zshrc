@@ -14,4 +14,5 @@ zstyle ':vcs_info:git:*' formats '%b'
 # Alias
 alias l="ls -alh"
 
+export M2HOME=/usr/local/Cellar/maven/3.5.4/libexec
 export PATH="/usr/local/sbin:$PATH"
